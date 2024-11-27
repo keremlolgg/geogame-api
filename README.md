@@ -1,3 +1,4 @@
+.env dosyasının içeriği
 ```
 bot_token= bot tokeni
 server_api_error_log=1306301782267265064
